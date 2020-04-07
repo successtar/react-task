@@ -29,8 +29,7 @@ const Skill = () => {
                     <DarkText block>
                         Print & Editorial
                     </DarkText>
-
-                    
+    
             </Wrapper>
 
     );
